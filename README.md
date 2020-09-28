@@ -5,7 +5,7 @@ A space to keep track of my notes and reading assignments for coding 201. I'm lo
 ## Table of Contents
 1. Reading Assignment 1
 - [x] Read assigned pages
-- [ ] Write pertinent information
+- [x] [Take notes](https://github.com/myerstina515/reading-notes/blob/master/class-01.md)
 2. Reading Assignment 2
 3. Reading Assignment 3
 4. Reading Assignment 4
