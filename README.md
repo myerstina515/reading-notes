@@ -7,6 +7,7 @@ A space to keep track of my notes and reading assignments for coding 201. I'm lo
    - [x] Read assigned pages
    - [x] [Take notes](https://github.com/myerstina515/reading-notes/blob/master/class-01.md)
 2. Reading Assignment 2
+   - [x] [Notes](https://github.com/myerstina515/reading-notes/blob/master/class-02.md)
 3. Reading Assignment 3
 4. Reading Assignment 4
 5. Reading Assignment 5
