@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+# Code 201 Reading Notes
 
-You can use the [editor on GitHub](https://github.com/myerstina515/reading-notes/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+A space to keep track of my notes and reading assignments for coding 201. I'm looking forward to all of the learning we will be doing. Coding is awesome! :+1:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/myerstina515/reading-notes/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Table of Contents
+1. Reading Assignment 1
+- [x] Read assigned pages
+- [x] [Take notes](https://github.com/myerstina515/reading-notes/blob/master/class-01.md)
+2. Reading Assignment 2
+3. Reading Assignment 3
+4. Reading Assignment 4
+5. Reading Assignment 5
+6. Reading Assignment 6
+7. Reading Assignment 7
+8. Reading Assignment 8
+9. Reading Assignment 9
+10. Reading Assignment 10
+11. Reading Assignment 11
+12. Reading Assignment 12
+13. Reading Assignment 13
+14. Reading Assignment 14
+15. Reading Assignment 15
