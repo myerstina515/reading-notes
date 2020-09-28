@@ -13,7 +13,11 @@
        
  ## 2. JavaScript and jQuery
   - **Chapter 2: Basic JavaScript Instructions**
-       1.
+       1. JAvaScript is case sensitive, and instructions are written in camel case. Comments are able to be inserted with /* or with // (The first to denote multi line comments, the second for a single line of comments)
+       2. Variables are stored for future use with the code "var" followed by the name you want used as the variable name. They can be recalled throughout the remainder of the document, provided they haven't been changed along the way.
+       3. JavaScript is made up of values called strings which are words kept between two single quotes ('value'), numbers which don't require quotes, and boolean values which are either true or false.
+       4. A special type of variable is an array, which stores lists of values inside brackets (such as example[value1, value2]). Arrays are lists that start with number 0, so the value in the first place acutally has a value of 0, in the second place its value is 1, and so on. When accessing variables, you "call" the variable with the value, not the position. For example, if you take the array above, and wanted to access the first value you would call it example[0]
+       5. You can do basic math with JavaScript, and the program will follow the order of operations.
        
   - **Chapter 4: Decisions and Loops**
        1. 
