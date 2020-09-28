@@ -1,6 +1,6 @@
-#Reading Assignment 1
+# Reading Assignment 1
 
-##1. HTML & CSS
+## 1. HTML & CSS
 
   - **Introduction:**
       1. Discusses the structure of the book, divides it up into three main sections including HTML, CSS, and Practical. 
@@ -14,4 +14,16 @@
       2. Elements can be grouped in many ways. They can be grouped by "class" or "id" so they may be styled with similar elements, and can be grouped visually with block or inline elements. Block elements change the way the document is formatted, but inline elements changes the appearance of a selection of words within the text.
       3. Escape characters are important for developers to be aware of. There are certain characters, such as &lt: and &gt: that are used with coding and indicate certain things (tags in this case), so there are special codes to make them appear in text.
   - **Chapter 17: HTML5 layout**
-      1. 
+      1. There are minor differences between previous versions of HTML and the most current HTML5. 
+      2. "Div" elements are one example of a difference. There are now many different ways to visually separate one group from another. Now, they can be grouped by article, a navigation bar, headers/footers, and asides. 
+      3. Older browsers need a little bit of assistance in understanding that these new groupings are "block" groupings, but that can be easily fixed by adding a line into the CSS coding, listing them as block elements.
+  - **Chapter 18: Process and Design**
+      1. When a developer is building a webiste, they need to consider their audience, and all factors that may influence the website use. Some of these include age, gender, location, what they may be using the webiste for, and their goals/motivations for the website use. 
+      2. The design of the website should be started with a site map, which is a diagram of the different pages that make up the structure of the website. 
+      3. A sketch of the webiste appearance (wireframe) is helpful to provide to the client so they can verify it has all the information and functions that are needed.
+      4. The webiste should have a visual hierarchy, with the more important elements in a prominent spot, gaining the most attention. All other elements should gradually decrease in size and prominence, with the least important being the least visible.
+      
+## 2. JavaScript and JQUERY
+
+   - **Introduction:**
+       1. 
