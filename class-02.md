@@ -20,4 +20,6 @@
        5. You can do basic math with JavaScript, and the program will follow the order of operations.
        
   - **Chapter 4: Decisions and Loops**
-       1. 
+       1. Conditional statements are structured in an "if/then" format, and helps the program to make decisions, flow chart style. 
+       2. They can compare components (greater than, less than, equal to, not equal to, greater than/equal to, and less than/equal to), decide if the first condition is true. 
+       3. If it is false, it will continue on and return the "then" or "else" response.
