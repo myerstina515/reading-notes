@@ -29,7 +29,7 @@
        1. Discusses the layout of the book and how the information will be presented.
        2. Introduces JavaScript and explains that it reacts to the information and content already created with the HTML and CSS. It is the interactive language that allows things such as slideshows, validation of information on online forms, and can reload only part of a page.
        3. This section also does a very brief refresher of HTML and CSS basics.
-   - **Chapter 1: The ABC of programming
+   - **Chapter 1: The ABC of programming**
        1. **A** Script is essentially the recipe or instructions of the program. The instructions need to be step by step and very specific so the program knows what to do. The computer takes the instruction into a flowchart of sorts. If it gets one thing as an answer it goes one direction, if it receives another answer it changes how the program responds.
        2. **B** Computers take the objects (or things), identify the characteristics, and use this information to create events. From the events and the input information, the computer has an action occur (method). Developers tells the computer to run a code when something specific happens.
        3. **C** After the HTML and CSS are entered, script is able to be inserted into the body section, between opening &lt:script&gt: and closing &lt:/script&gt: tags. It runs where it is found, so be sure if the script is inline it is in the correct location. It is usually recommended to have a separate script sheet attached to the document, rather than placing script inline.
