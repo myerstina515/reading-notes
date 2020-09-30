@@ -13,4 +13,8 @@
      
 ## 2. JavaScript and jQuery
    - **Chapter 2 (pages 70-73: Arrays)**
+     1. An array stores a list of variables, especially when you don't know how many items are in a list or it could be long. A developer can use a literal array (which is created as a variable with the name array, and has values separated by a single comma within square brackets) or an array constructor, where the array uses the keyword "new" and the values are held withing regular parenthesis, still separated by a comma.
+     2. You access items in an array by specifying the array name followed by the index number in brackets. The index number refers to where the item is in the array space. The positions begin at "0", so the first item is "0" the second is "1" and so on.
+     3. You can change the values in an array by accessing the location, using an = sign, and placing the updated item in single quotes, in case you only needed to change one single value in the array, but leaving the rest of the space alone.
+   - **Chapter 4: Decisions and Loops**
      1. 
