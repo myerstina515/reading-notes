@@ -3,7 +3,19 @@
 ## 1. Article
 
   - **Domain Modeling:**
-    1. jgckvghb
+    1. Object-oriented models take information and store it in as properties inside objects. Good object models can help to improve the understanding of specific problems and can serve as better communiation than disorganized code. At this point, the article gives an example of object oriented programming, which I completed in VSCode. Here is the epic fail example:
+    var epicFailVideo = function(epicRating, hasAnimals){
+    this.epicRating = epicRating;
+    this.hasAnimals = hasAnimals;
+}
+
+var parkourFail = new epicFailVideo(7, false);
+var corgiFail = new epicFailVideo(4, true);
+
+console.log(parkourFail);
+console.log(corgiFail);
+    2. The article next goes into Math.floor and Math.random to use as a random number generator. These get created, and then inserted into the console.log for each element by this as an example: console.log(parkourFail.generateRandom(1,5)); The numbers within the parenthesis represent a minimum and maximum value that the random number can be between. Similarly, a random number is generated for "likes", viewers per day, and percentage of people who like it vs watched it.
+    3. Weekly likes uses a new randomly generated number to tally the weekly likes, by taking the daily likes and multiplying it by the days of the week. Another takeaway is using the word "this" to refer to the variable that only exists within the object.
     
     
 ## 2. HTML & CSS
