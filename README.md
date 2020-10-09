@@ -21,8 +21,9 @@ A space to keep track of my notes and reading assignments for coding 201. I'm lo
 8. Reading Assignment 8
    - [x] [Notes](https://github.com/myerstina515/reading-notes/blob/master/class-08.md)
 9. Reading Assignment 9
-   - [x] [Notes}(https://github.com/myerstina515/reading-notes/blob/master/class-09.md)
+   - [x] [Notes](https://github.com/myerstina515/reading-notes/blob/master/class-09.md)
 10. Reading Assignment 10
+   - [x] [Notes](https://github.com/myerstina515/reading-notes/blob/master/class-10.md)
 11. Reading Assignment 11
 12. Reading Assignment 12
 13. Reading Assignment 13
