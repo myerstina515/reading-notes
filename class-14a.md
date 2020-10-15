@@ -26,11 +26,11 @@
 
 
 # 7. 404
-  - **A.**
+  - **A.** It's interesting to see how the 0 gets larger in the middle and the 4's on either side shrink and end up inside the opening of the 0. Its neat to see how all of the animation and transitions work together to create things like this.
 
 
 # 8. Pure CSS Bounce Animation
-
+  - **A.** So the ball is cool how it bounces, but then as it's bouncing it turns into a square and the colors change and a larger cirle appears that encircles the bouncing circle/square...
 
 
 
