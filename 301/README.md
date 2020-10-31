@@ -3,7 +3,7 @@
 ## Table of Contents
 
 1. Reading Assignment 1
-- [ ] [Notes]
+- [x] [Notes](https://github.com/myerstina515/reading-notes/blob/master/301/class-01.md)
 2. Reading Assignment 2
 - [ ] [Notes]
 3. Reading Assignment 3 
