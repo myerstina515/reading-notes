@@ -2,13 +2,14 @@
 
 ## JavaScript and jQuery: Duckett (pg 293-301, 306-331, 354-357)
 
-  1. 
+  1. jQuery offers a more streamlined method of completing javascript tasks without requiring as much code. jQuery selectors perform tasks similar to traditional DOM queries, but is much simpler once we get the hang of it. Instead of using a function, the notation is $() and then you can do something with the object by adding a dot notation method. jQuery has to be added as an additional library in a javascript page in order to use it in a document. People use jQuery (on over a quarter of websites on the internet right now) because it makes coding simpler, uses less code, uses CSS selector tags, and has cross browser compatibility.
+  2. A selector chooses one or more elments to interact with. The elements can be a source of information for jQuery methods as well as the methods can change the information in the elements by using the .html() method. The jQuery object is like an array, where the reference to items is stored within it. Instead of looping through multiple elements, if you wanted to do the same thing to all of them you an just update them all with one method, it doesn't matter if it's one element or multiple. "Implicit iteration" is that ability to update all the elements within the selection. "chaining" is adding multiple methods to one element or selection. ".ready" checks to make sure the page is ready for the method to run, and makes sure the rest of the page is loaded before running it. As noted above, html() replaces information in the element, but also takes in the html tags, while the text() replaces only the text contents of the element. You can also ".append", ".remove", ".prepend", ".replaceWith" and several other things with jQuery as well as adding and removing classes and id's. CSS rules can also be changed in jQuery with ".css" followed by the curly braces and the properties you want to change. Event handlers and listener functions are also much easier with jQuery, simply by using ".on" followed by what the function should be listening for. The best place to put your script tags for jQuery is still at the end of the body section.
   
   
 ## 6 Reasons for Pair Programming
 
-  1. 
+  1. Pair programming is much more efficient in the grand scheme of things, as although it takes longer initially, it reduces the amount of time it could require to debug or teach someone else about your code base. 2. It's also more engaging that if either person were programming alone, and can help you to be able to talk through parts of your code you other wise may not be able to. 3. It's helpful to learn from a classmate sometimes, as they will have the same understanding and knowledge base you do. 4. It forces people to work on their communication skills, which will be beneficial in the long run. 5. Since many job interviews have a pair programming portion, it helps us to prepare for being in those situations, and be more comfortable with the process. 6. It will also prepare us for an entry level job, as some larger companies do pair programming with new computer science hires to make sure the can clearly and efficiently write code.
   
 ## Bookmark/skim: Duckett (pg 302-305, 332-335)
 
-  1. 
+  1. These two sections are marked in my textbook and are just mini libraries of jQuery, different tags to find elements, as well as effects that can occur with the proper code.
