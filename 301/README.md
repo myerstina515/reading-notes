@@ -5,7 +5,7 @@
 1. Reading Assignment 1
 - [x] [Notes](https://github.com/myerstina515/reading-notes/blob/master/301/class-01.md)
 2. Reading Assignment 2
-- [ ] [Notes]
+- [x] [Notes](https://github.com/myerstina515/reading-notes/blob/master/301/class-02.md)
 3. Reading Assignment 3 
 - [ ] [Notes]
 4. Reading Assignment 4
