@@ -11,7 +11,7 @@
 4. Reading Assignment 4
 - [x] [Notes](https://github.com/myerstina515/reading-notes/blob/master/301/class-04.md)
 5. Reading Assignment 5
-- [ ] [Notes]
+- [x] [Notes](https://github.com/myerstina515/reading-notes/blob/master/301/class-05.md)
 6. Reading Assignment 6
 - [ ] [Notes]
 7. Reading Assignment 7
