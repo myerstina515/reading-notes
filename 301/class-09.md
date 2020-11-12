@@ -10,7 +10,11 @@
 
 
 ## Refactoring JavaScript for Performance and Readability
-  1. 
-
+  1. Scenario 1: User enters short URL that forwards them through long URL to website. The way to refactor is to change the structure of the data. Using a hash function will give a key to the location, which will decrease the amount of "buckets" the function needs to look for and the website will run faster.
+  2. Scenario 2: Social media website where users names are randomly generated from a list of "friendly" words. The one function does only create the user, but as the site grows it will be doing many more things and take much longer. So, they break up the function so it's smaller chunks of logic.
+  3. Strategies: 
+    a. Return early from functions
+    b. Cache variables so functions are more readable
+    c. Check for web API's before implementing your own functionality.
 
 
