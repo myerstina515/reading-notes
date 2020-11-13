@@ -21,7 +21,7 @@
 9. Reading Assignment 9
 - [x] [Notes](https://github.com/myerstina515/reading-notes/blob/master/301/class-09.md)
 10. Reading Assignment 10
-- [ ] [Notes]
+- [x] [Notes](https://github.com/myerstina515/reading-notes/blob/master/301/class-10.md)
 11. Reading Assignment 11 
 - [ ] [Notes]
 12. Reading Assignment 12
