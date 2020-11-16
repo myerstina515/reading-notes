@@ -19,10 +19,10 @@
     people: [{name: 'dave' }
              {name: 'jerry'}]
     <ul><%= for(var person of people){ %> <li> <%= person.name %> </li> <% } %>
-    
+  
   5. If/Else Statements: 
-    index.html
-    <ul> 
+      index.html
+      <ul> 
       <% if(person.name === 'dave') { %>
       <li>This is definitely <%= person.name %>!!!
       </li>
