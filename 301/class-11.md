@@ -18,16 +18,16 @@
   4. For Loops and Arrays: 
     people: [{name: 'dave' }
              {name: 'jerry'}]
-    <ul><%= for(var person of people){ %> <li> <%= person.name %> </li> <% } %>
+    \<ul><%= for(var person of people){ %> <li> <%= person.name %> </li> <% } %>
   
   5. If/Else Statements: 
-      index.html
-      <ul> 
+      \index.html
+      \<ul> 
       <% if(person.name === 'dave') { %>
-      <li>This is definitely <%= person.name %>!!!
-      </li>
+      \<li>This is definitely <%= person.name %>!!!
+      \</li>
       <% } else { %>
-      <li>This is definitely not dave!! This is <%= person.name %>!!
-    </ul>
+      \<li>This is definitely not dave!! This is <%= person.name %>!!
+      \</ul>
 
   6. EJS tutorial (the second one) is bookmarked and I skimmed through it, though I feel like the video tutorial was more helpful.
