@@ -15,7 +15,7 @@
     foo: 'bar'
     <%= %> (means I'm going to evaluate a variable for you in HTML)
     
-  4.For Loops and Arrays: 
+  4. For Loops and Arrays: 
     people: [{name: 'dave' }
              {name: 'jerry'}]
     <ul><%= for(var person of people){ %> <li> <%= person.name %> </li> <% } %>
