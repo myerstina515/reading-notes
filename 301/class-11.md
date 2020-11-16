@@ -18,7 +18,7 @@
   4. For Loops and Arrays: 
     people: [{name: 'dave' }
              {name: 'jerry'}]
-    \<ul><%= for(var person of people){ %> <li> <%= person.name %> </li> <% } %>
+             \<ul><%= for(var person of people){ %> <li> <%= person.name %> </li> <% } %>
   
   5. If/Else Statements: 
       \index.html
