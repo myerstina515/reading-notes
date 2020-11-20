@@ -31,4 +31,4 @@
 14. Reading Assignment 14
 - [x] [Notes](https://github.com/myerstina515/reading-notes/blob/master/301/class-14.md)
 15. Reading Assignment 15
-- [ ] [Notes]
+- [x] [Notes](https://github.com/myerstina515/reading-notes/blob/master/301/class-15.md)
