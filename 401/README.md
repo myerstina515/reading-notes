@@ -3,8 +3,8 @@
 ## Table of Contents
 
 Prework:
-- [ ] [Engineering Topics]
-- [ ] 
+- [x] [Engineering Topics](https://github.com/myerstina515/reading-notes/tree/master/401)
+- [ ] [blah blah]
 
 1. Reading Assignment 1
 - [ ] [Notes]
