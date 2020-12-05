@@ -17,7 +17,10 @@
   3. This quote from Steve Jobs really spoke to me: “People think focus means saying yes to the thing you’ve got to focus on. But that’s not what it means at all. It means saying no to the hundred other good ideas that there are. You have to pick carefully. I’m actually as proud of the things we haven’t done as the things I have done. Innovation is saying no to 1,000 things.” It's so easy to go after the first opportunity you're given, what's not easy is to wait for the right opportunity.
   
 ## How to think like a programmer:
-
+  1. "Problem solving is the meta-skill": Most young programmers (or non programmers in general) problem solve in an ineffective way: randomly trying a solution, see if it sticks. If not, move on to the next solution. But, by having a problem solving framework, it makes problem solving more efficient and actually helps you to solve the problem. In this article, the author breaks it down into a few steps:
+  2. First, Understand: Work on understanding the problem in it's entirety. If you can't explain it, you probably don't fully understand it. Write, draw, or explain the probelm to another person. Next, plan: Luckily, as programmers, we have one super helpful tool in comments. Make a full plan to solve the problem, including all of the steps necessary. Thirdly, divide: Divide the problem into several sub-problems that are easier to solve. Once you solve all of the sub-problems, link them together and make sure they fit. Lastly, if you're stuck: Go through these steps to get yourself UN stuck: debug step by step, reassess (from another perspective), start fresh if needed, and reserch (google). Once you get these steps down, just practice them over and over until this is the way you solve problems. 
+  
+## The 5 Whys
 
 
 
