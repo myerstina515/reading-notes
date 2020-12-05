@@ -3,7 +3,7 @@
 ## Table of Contents
 
 Prework:
-- [x] [Engineering Topics](https://github.com/myerstina515/reading-notes/tree/master/401)
+- [x] [Engineering Topics](https://github.com/myerstina515/reading-notes/blob/master/401/prework-engineering-topics.md)
 - [ ] [blah blah]
 
 1. Reading Assignment 1
