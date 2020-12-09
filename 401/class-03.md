@@ -22,9 +22,9 @@
 
 ## Preview
 
-  1. Which 3 things had you heard about previously and now have better clarity on?
-  2. Which 3 things are you hoping to learn more about in the upcoming lecture/demo?
-  3. What are you most excited about trying to implement or see how it works?
+  1. Which 3 things had you heard about previously and now have better clarity on? After having to think about the review questions, I understand the ending of the process and sending data to the browser, as well as the request headers sent twice. I ran into that error a couple times during the lab today (Tuesday).
+  2. Which 3 things are you hoping to learn more about in the upcoming lecture/demo? I'm hoping for more clarity on the different types of middleware (middleware, application, and routing), as well as behavioral testing and additional testing techniques in general.
+  3. What are you most excited about trying to implement or see how it works? I want to spend more time working on tests and techniques for them, as well as UML.
 
 
 
