@@ -10,9 +10,9 @@ Prework:
 2. Reading Assignment 2
 - [x] [Notes](https://github.com/myerstina515/reading-notes/blob/master/401/class-02.md)
 3. Reading Assignment 3 
-- [ ] [Notes]
+- [x] [Notes](https://github.com/myerstina515/reading-notes/blob/master/401/class-03.md)
 4. Reading Assignment 4
-- [ ] [Notes]
+- [x] [Notes](https://github.com/myerstina515/reading-notes/blob/master/401/class-04.md)
 5. Reading Assignment 5
 - [ ] [Notes]
 6. Reading Assignment 6
