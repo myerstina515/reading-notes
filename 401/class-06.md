@@ -33,7 +33,10 @@
   1. Most strong passwords are stored via cryptographic hash algorithms, which are considered pretty safe password storage. some vocabulary:
     - Brute Force attack: Hash algorithms don't change, so a brute force attack via computer can take as little as an hour with a hash algorithm,up to 16 characters.
     - Hash Collision attack: Since they have indefinite length, eventually there will be two combinations that producte the same hash algorithm, which produces a hash collision attack.
-    - Key Stretching: to overcome the issues with hash algorithms, there are other slower methods for 
+    - Key Stretching: to overcome the issues with hash algorithms, there are other slower methods for processing the hash algorithm, such as using Bcrypt, that makes the hassh function slower, so it changes before a computer has a change to decode it. As computers get faster, they can just make bCrypt longer to offset the newer speed.
+  2. Basic Auth: Basic HTTP authentication, using something like Base 64 to encrypt the url, and is typically used with https to increase security. 
+  3. OWASP authentication cheat sheet: Cheat sheet for authentication that is bookmarked in my browser now.
+  4. bcrypt docs: skimmed and bookmarked.
 
 
 
