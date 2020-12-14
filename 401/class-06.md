@@ -33,7 +33,7 @@
   1. Most strong passwords are stored via cryptographic hash algorithms, which are considered pretty safe password storage. some vocabulary:
     - Brute Force attack: Hash algorithms don't change, so a brute force attack via computer can take as little as an hour with a hash algorithm,up to 16 characters.
     - Hash Collision attack: Since they have indefinite length, eventually there will be two combinations that producte the same hash algorithm, which produces a hash collision attack.
-    - BCrypt: to overcome the issues with 
+    - Key Stretching: to overcome the issues with hash algorithms, there are other slower methods for 
 
 
 
