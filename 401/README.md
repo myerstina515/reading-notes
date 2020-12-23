@@ -28,7 +28,7 @@ Prework:
 12. Reading Assignment 12
 - [x] [Notes](https://github.com/myerstina515/reading-notes/blob/master/401/class-12.md)
 13. Reading Assignment 13
-- [ ] [Notes]
+- [x] [Notes](https://github.com/myerstina515/reading-notes/blob/master/401/class-13.md)
 14. Reading Assignment 14
 - [ ] [Notes]
 15. Reading Assignment 15
