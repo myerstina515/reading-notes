@@ -34,10 +34,17 @@
 
 ## EC2 for humans
 [video](https://www.youtube.com/watch?v=lZMkgOMYYIg)
-1. 
+1. Elastic Beanstalk spins up virtual servers
+2. Each server is totally separate from any other server on separate machines
+3. Most important option is the "launch instance" where we can bring up a new virtual machine.
+  - Choose which OS and software you want to use.
+  - Mac OS, Linux, Windows
+  - Select type of machine you want to run it on (power differs between each)
 
 ## Elastic Beanstalk
-
+[video](https://www.youtube.com/watch?v=SrwxAScdyT0)
+1. Deploys, manages, and scales web apps and services for you
+2. Java, .net, PHP, node.js, python, ruby, and docker
   
   
   
