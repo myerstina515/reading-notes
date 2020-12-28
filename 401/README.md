@@ -33,3 +33,5 @@ Prework:
 - [x] [Notes](https://github.com/myerstina515/reading-notes/blob/master/401/class-14.md)
 15. Reading Assignment 15
 - [x] [Notes](https://github.com/myerstina515/reading-notes/blob/master/401/class-15.md)
+16. Reading Assignment 16: AWS: Cloud Servers
+- [x] [Notes](https://github.com/myerstina515/reading-notes/blob/master/401/class-16.md)
