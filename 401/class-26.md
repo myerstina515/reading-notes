@@ -7,7 +7,7 @@
 ### Vocabulary
   1. Rendering: A render is a technique for sharing code between components, whose value is a function. 
   2. Templates: A chunk of HTML you need to put onto the page. 
-  3. State: In react, a state is an object that represents a part of an app that is able to be changed. Each component has it's own "state" that lives in the "this". (reference)[https://daveceddia.com/visual-guide-to-state-in-react/#:~:text=In%20the%20React%20sense%2C%20%E2%80%9Cstate,in%20an%20object%20called%20this.]
+  3. State: In react, a state is an object that represents a part of an app that is able to be changed. Each component has it's own "state" that lives in the "this". [reference](https://daveceddia.com/visual-guide-to-state-in-react/#:~:text=In%20the%20React%20sense%2C%20%E2%80%9Cstate,in%20an%20object%20called%20this.)
 
 ## Preview
   1. 
