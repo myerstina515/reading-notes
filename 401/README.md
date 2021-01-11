@@ -35,3 +35,5 @@ Prework:
 - [x] [Notes](https://github.com/myerstina515/reading-notes/blob/master/401/class-15.md)
 16. Reading Assignment 16: AWS: Cloud Servers
 - [x] [Notes](https://github.com/myerstina515/reading-notes/blob/master/401/class-16.md)
+26. Component Based UI
+- [x] [Notes](https://github.com/myerstina515/reading-notes/blob/master/401/class-26.md)
