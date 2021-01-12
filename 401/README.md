@@ -37,3 +37,5 @@ Prework:
 - [x] [Notes](https://github.com/myerstina515/reading-notes/blob/master/401/class-16.md)
 26. Component Based UI
 - [x] [Notes](https://github.com/myerstina515/reading-notes/blob/master/401/class-26.md)
+27. Props and State
+- [x] [Notes](https://github.com/myerstina515/reading-notes/blob/master/401/class-27.md)
