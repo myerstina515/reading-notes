@@ -41,3 +41,9 @@ Prework:
 - [x] [Notes](https://github.com/myerstina515/reading-notes/blob/master/401/class-27.md)
 28. Component Composition
 - [x] [Notes](https://github.com/myerstina515/reading-notes/blob/master/401/class-28.md)
+29. Routing
+- [x] [Notes](https://github.com/myerstina515/reading-notes/blob/master/401/class-29.md)
+
+
+
+
