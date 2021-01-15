@@ -43,7 +43,8 @@ Prework:
 - [x] [Notes](https://github.com/myerstina515/reading-notes/blob/master/401/class-28.md)
 29. Routing
 - [x] [Notes](https://github.com/myerstina515/reading-notes/blob/master/401/class-29.md)
-
+30. Hash Tables
+- [x] [Notes](https://github.com/myerstina515/reading-notes/blob/master/401/class-30.md)
 
 
 
