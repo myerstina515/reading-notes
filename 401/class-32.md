@@ -1,14 +1,14 @@
 # Custom Hooks
 
 ## Review, research, and discussion:
-  1. What does a component’s lifecycle refer to?
-  2. Why do you sometimes need to “wrap” functions in useCallback when called from within useEffect
-  3. Why are functional components preferred over class components?
-  4. What is wrong with the following code?
+  1. What does a component’s lifecycle refer to? Mounting, Updating, and Unmounting of the component
+  2. Why do you sometimes need to “wrap” functions in useCallback when called from within useEffect? will help avoid regeneration when only one component is re-rendered.
+  3. Why are functional components preferred over class components? They are easier to read and test
+  4. What is wrong with the following code? Can't access the event in the setState
   
 ### Vocabulary
-  1. state hook
-  2. effect hook
+  1. state hook: allows you to have state variables in functional components
+  2. effect hook: 
   3. reducer hook
 
 ## Preview
