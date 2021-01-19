@@ -47,5 +47,6 @@ Prework:
 - [x] [Notes](https://github.com/myerstina515/reading-notes/blob/master/401/class-30.md)
 31. Hooks API
 - [x] [Notes](https://github.com/myerstina515/reading-notes/blob/master/401/class-31.md)
-
+32. Custom Hooks
+- [x] [Notes](https://github.com/myerstina515/reading-notes/blob/master/401/class-32.md)
 
