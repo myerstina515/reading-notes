@@ -22,4 +22,4 @@
   2. [Bookmarked](https://www.npmjs.com/package/react-cookies)
   
 ## react cookie library
-  1. [also bookmarked}(https://www.npmjs.com/package/react-cookie)
+  1. [also bookmarked](https://www.npmjs.com/package/react-cookie)
