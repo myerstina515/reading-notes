@@ -49,4 +49,8 @@ Prework:
 - [x] [Notes](https://github.com/myerstina515/reading-notes/blob/master/401/class-31.md)
 32. Custom Hooks
 - [x] [Notes](https://github.com/myerstina515/reading-notes/blob/master/401/class-32.md)
+33. Auth and Login
+- [x] [Notes](https://github.com/myerstina515/reading-notes/blob/master/401/class-33.md)
+34. Graphs
+- [x] [Notes](https://github.com/myerstina515/reading-notes/blob/master/401/class-34.md)
 
