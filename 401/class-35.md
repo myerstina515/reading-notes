@@ -34,7 +34,9 @@
   3. `BreadthFirst()` uses two methods: `Enqueue` that puts the node into the queue, `Dequeue` that removes the node from the queue.
 
 #### Depth First:
-  
+  1. Set up to work with a stack rather than a queue
+  2. Alrogithm is as follows: `Push` the root node onto the stack, start a while loop while the stack has a value in it, `Peek` at the top of the stack, if the top node has unvisited children, mark the top node as visited, and then `Push` any unvisited children onto the stack, if the top node does not have any unvisited children, `Pop` that node off the stack, and repeat until there are no more nodes.
+  3. Examples of graphs in the real world: GPS and Mapping, also Netflix uses graphs for suggestions of products
   
   
   
